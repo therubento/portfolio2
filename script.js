@@ -5,7 +5,8 @@ const projetos = [
     categoria: "RÁDIO & ÁUDIO",
     hashtag: "#festival #radio",
     titulo: "Festival MED (RUA)",
-    mesAno: "Junho | 2023 - 2026",
+    logo: "https://rua.pt/wp-content/uploads/2021/10/cropped-favicon.png",
+    mesAno: "Junho | 2026 - 2023",
     cargo: "Radialista",
     local: "Loulé",
     capa: "https://i.imgur.com/yr869TR.jpeg",
@@ -24,7 +25,8 @@ const projetos = [
     categoria: "RÁDIO & ÁUDIO",
     hashtag: "#festival #radio",
     titulo: "Festival F (RUA)",
-    mesAno: "Setembro | 2022 - 2026",
+    logo: "https://rua.pt/wp-content/uploads/2021/10/cropped-favicon.png",
+    mesAno: "Setembro | 2026 - 2022",
     cargo: "Radialista",
     local: "Faro",
     capa: "https://i.imgur.com/1LQ3hJW.jpeg",
@@ -43,7 +45,8 @@ const projetos = [
     categoria: "RÁDIO & ÁUDIO",
     hashtag: "#semanaacademica #radio",
     titulo: "Semana Académica do Algarve (RUA)",
-    mesAno: "Maio | 2022 - 2026",
+    logo: "",
+    mesAno: "Maio | 2026 - 2022",
     cargo: "Radialista / Repórter",
     local: "Faro",
     capa: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=600&q=80",
@@ -59,7 +62,8 @@ const projetos = [
     categoria: "AUDIOVISUAL",
     hashtag: "#documentario",
     titulo: "Sala 31",
-    mesAno: "Maio | 2026",
+    logo: "",
+    mesAno: "Fevereiro 2025 - Maio 2026",
     cargo: "Realizador / Pós-Produção",
     local: "ESEC (UAlg)",
     capa: "https://i.imgur.com/iFBnsa2.jpeg",
@@ -78,7 +82,8 @@ const projetos = [
     categoria: "RÁDIO & ÁUDIO",
     hashtag: "#digital #radio",
     titulo: "Confissões de Um Universitário (RUA)",
-    mesAno: "Março | 2026",
+    logo: "https://rua.pt/wp-content/uploads/2021/10/cropped-favicon.png",
+    mesAno: "Março 2026 - Atualidade",
     cargo: "Realizador / Pós-Produção",
     local: "Universidade do Algarve",
     capa: "https://www.ualg.pt/sites/default/files/styles/redes_sociais_landscape/public/nodes/images/2026-03/confuni.jpg?itok=l427xszY",
@@ -98,7 +103,8 @@ const projetos = [
     categoria: "RÁDIO & ÁUDIO",
     hashtag: "#festival #radio",
     titulo: "Albufeira Sounds (RUA)",
-    mesAno: "Agosto | 2025",
+    logo: "",
+    mesAno: "2025",
     cargo: "Radialista",
     local: "Albufeira",
     capa: "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=600&q=80",
@@ -112,7 +118,8 @@ const projetos = [
     categoria: "RÁDIO & ÁUDIO",
     hashtag: "#festival #radio",
     titulo: "Albufeira Sea Fest (RUA)",
-    mesAno: "Abril | 2025",
+    logo: "",
+    mesAno: "2025",
     cargo: "Radialista",
     local: "Albufeira",
     capa: "https://images.unsplash.com/photo-1506157786151-b8491531f063?auto=format&fit=crop&w=600&q=80",
@@ -126,6 +133,7 @@ const projetos = [
     categoria: "OUTROS",
     hashtag: "#worldskillsportugal",
     titulo: "Medalha de Ouro — Skills Portugal 2024",
+    logo: "https://worldskillsportugal.iefp.pt/wp-content/uploads/2020/03/WSPT_70anos_af3-10-copy.png",
     mesAno: "Novembro | 2024",
     cargo: "Jornalista / Repórter TV",
     local: "Santa Maria da Feira",
@@ -144,7 +152,8 @@ const projetos = [
     categoria: "DIGITAL & COMUNICAÇÃO",
     hashtag: "#digital",
     titulo: "Projeto ENTR PT (RTP)",
-    mesAno: "Agosto | 2024",
+    logo: "https://media.rtp.pt/entr/wp-content/themes/entr/includes/img/logo-white.png",
+    mesAno: "Maio — Agosto | 2024",
     cargo: "Criador de Conteúdos (Freelancer)",
     local: "RTP — Lisboa",
     capa: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&w=600&q=80",
@@ -157,13 +166,14 @@ const projetos = [
   {
     id: 10,
     destaque: false,
-    categoria: "JORNALISMO & MEDIA",
+    categoria: "OUTROS",
     hashtag: "#congressojornalistas",
     titulo: "5º Congresso dos Jornalistas",
+    logo: "",
     mesAno: "Janeiro | 2024",
     cargo: "Jornalista Redator (Redação)",
     local: "ESCS / Lisboa",
-    capa: "https://images.unsplash.com/photo-1588681664899-f142ff2dc9b1?auto=format&fit=crop&w=600&q=80",
+    capa: "https://i.imgur.com/3YL18sR.jpeg",
     resumo: "Integração na equipa de redação responsável pela cobertura jornalística do 5º Congresso dos Jornalistas Portugueses.",
     links: [],
     media: []
@@ -174,7 +184,8 @@ const projetos = [
     categoria: "OUTROS",
     hashtag: "#investigacao",
     titulo: "Dissertação de Mestrado (ESCS)",
-    mesAno: "Julho | 2024",
+    logo: "https://www.escs.ipl.pt/sites/default/files/ESCS-Logo.png",
+    mesAno: "2022 — 2024",
     cargo: "Investigador",
     local: "Escola Superior de Comunicação Social",
     capa: "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=600&q=80",
@@ -188,6 +199,7 @@ const projetos = [
     categoria: "OUTROS",
     hashtag: "#worldskillsportugal",
     titulo: "Medalha de Excelência — Skills Portugal 2023",
+    logo: "https://worldskillsportugal.iefp.pt/wp-content/uploads/2020/03/WSPT_70anos_af3-10-copy.png",
     mesAno: "Março | 2023",
     cargo: "Editor de Vídeo",
     local: "Portimão",
@@ -203,10 +215,11 @@ const projetos = [
   {
     id: 13,
     destaque: false,
-    categoria: "DIGITAL & COMUNICAÇÃO",
+    categoria: "OUTROS",
     hashtag: "#cienciasdacomunicacao #esec #ualg",
     titulo: "Núcleo de Ciências da Comunicação (NECICom) – UAlg",
-    mesAno: "Fevereiro | 2023",
+    logo: "https://upload.wikimedia.org/wikipedia/pt/4/43/UAlg_Logo_Simbolo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
+    mesAno: "Fevereiro 2022 – Fevereiro 2023",
     cargo: "Coordenador do Mercado de Trabalho",
     local: "Universidade do Algarve",
     capa: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=600&q=80",
@@ -220,7 +233,8 @@ const projetos = [
     categoria: "RÁDIO & ÁUDIO",
     hashtag: "#radio",
     titulo: "RUA - Rádio Universitária do Algarve",
-    mesAno: "Março | 2022",
+    logo: "https://rua.pt/wp-content/uploads/2021/10/cropped-favicon.png",
+    mesAno: "Março 2022 – Atualmente",
     cargo: "Jornalista e Animador de Rádio",
     local: "Faro",
     capa: "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=600&q=80",
@@ -234,7 +248,8 @@ const projetos = [
     categoria: "DIGITAL & COMUNICAÇÃO",
     hashtag: "#comunicacao",
     titulo: "Projeto \"Política (NÃO) Importa\"",
-    mesAno: "Novembro | 2022",
+    logo: "",
+    mesAno: "Setembro 2020 — Novembro 2022",
     cargo: "Coordenador de Comunicação",
     local: "Projeto Independente",
     capa: "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?auto=format&fit=crop&w=600&q=80",
@@ -248,7 +263,8 @@ const projetos = [
     categoria: "JORNALISMO & MEDIA",
     hashtag: "#imprensa",
     titulo: "Sul Informação",
-    mesAno: "Fevereiro | 2022",
+    logo: "https://www.sulinformacao.pt/wp-content/uploads/2023/12/logo.png",
+    mesAno: "Abril 2021 — Fevereiro 2022",
     cargo: "Jornalista (Estágio Profissional)",
     local: "Sul Informação (Faro)",
     capa: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
@@ -264,7 +280,8 @@ const projetos = [
     categoria: "JORNALISMO & MEDIA",
     hashtag: "#imprensa",
     titulo: "Revista Rotary Portugal",
-    mesAno: "Março | 2021",
+    logo: "https://revistarotaryportugal.pt/wp-content/uploads/2025/04/logo_nobg-e1746010110400.png",
+    mesAno: "Março 2021 – Atualmente",
     cargo: "Editor e Jornalista (Colaborador)",
     local: "Portugal",
     capa: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
@@ -278,7 +295,8 @@ const projetos = [
     categoria: "JORNALISMO & MEDIA",
     hashtag: "#televisao",
     titulo: "Rádio e Televisão de Portugal (RTP)",
-    mesAno: "Julho | 2020",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/8/81/RTP_2026.svg?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=original",
+    mesAno: "Março 2020 – Julho 2020",
     cargo: "Jornalista (Estágio Curricular)",
     local: "Faro",
     capa: "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?auto=format&fit=crop&w=600&q=80",
@@ -292,7 +310,8 @@ const projetos = [
     categoria: "AUDIOVISUAL",
     hashtag: "#cinema",
     titulo: "Segunda Opção (Curta-Metragem)",
-    mesAno: "Junho | 2019",
+    logo: "",
+    mesAno: "Março 2018 — Junho 2019",
     cargo: "Realizador, Editor, Cameraman",
     local: "Faro",
     capa: "https://images.unsplash.com/photo-1518173946687-a4c8a383392e?auto=format&fit=crop&w=600&q=80",
@@ -308,7 +327,8 @@ const projetos = [
     categoria: "RÁDIO & ÁUDIO",
     hashtag: "#radio",
     titulo: "+Jovem - Rádio Gilão",
-    mesAno: "Setembro | 2019",
+    logo: "https://www.radiogilao.com/templates/radiogilao/images/blue/logo.png",
+    mesAno: "Junho a Setembro | 2019",
     cargo: "Locutor (Colaborador)",
     local: "Tavira",
     capa: "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=600&q=80",
@@ -317,29 +337,6 @@ const projetos = [
     media: []
   }
 ];
-
-// FUNÇÃO AUXILIAR DE ORDENAÇÃO CRONOLÓGICA (MAIS RECENTE PARA MAIS ANTIGO)
-function extrairData(mesAnoStr) {
-    const meses = {
-        "janeiro": 1, "fevereiro": 2, "março": 3, "abril": 4, "maio": 5, "junho": 6,
-        "julho": 7, "agosto": 8, "setembro": 9, "outubro": 10, "novembro": 11, "dezembro": 12
-    };
-    
-    const partesAnos = mesAnoStr.match(/\b(20\d{2})\b/g);
-    const ano = partesAnos ? Math.max(...partesAnos.map(Number)) : 2000;
-    
-    let mes = 1;
-    const strLower = mesAnoStr.toLowerCase();
-    for (let m in meses) {
-        if (strLower.includes(m)) {
-            mes = meses[m];
-            break;
-        }
-    }
-    return ano * 100 + mes;
-}
-
-let carouselAutoTimer = null;
 
 document.addEventListener("DOMContentLoaded", () => {
     // 1. SCROLL REVEAL SUAVE
@@ -355,13 +352,13 @@ document.addEventListener("DOMContentLoaded", () => {
     window.addEventListener("scroll", handleScrollReveal);
     handleScrollReveal();
 
-    // 2. LOGÓTIPO VOLTA AO TOPO
+    // 2. LOGÓTIPO VOLTA AO TOPO COM MOVIMENTO SUAVE
     document.getElementById("brand-logo")?.addEventListener("click", (e) => {
         e.preventDefault();
         window.scrollTo({ top: 0, behavior: "smooth" });
     });
 
-    // 3. NÍVEIS DE SOFTWARE
+    // 3. NÍVEIS DE SOFTWARE (BARRAS VISUAIS DE DENSIDADE)
     document.querySelectorAll('.level-bar').forEach(bar => {
         const level = parseInt(bar.getAttribute('data-level'), 10) || 0;
         bar.innerHTML = ''; 
@@ -372,102 +369,42 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 
-    // 4. CONSTRUÇÃO DOS DESTAQUES COMO SLIDESHOW AUTOMÁTICO E MANUAL
+    // 4. CONSTRUÇÃO DOS DESTAQUES
     const containerDestaque = document.getElementById("grid-destaques-trio");
     const drawerDestaque = document.getElementById("drawer-destaque");
-    const itensDestaque = projetos.filter(p => p.destaque);
-    let slideIndex = 0;
-    let slideTimer = null;
+    const itensDestaque = projetos.filter(p => p.destaque).slice(0, 3);
 
-    function renderDestaquesSlideshow() {
+    function renderDestaques() {
         if (!containerDestaque) return;
+        containerDestaque.innerHTML = "";
         
-        containerDestaque.innerHTML = `
-            <div class="slideshow-wrapper">
-                <div class="slideshow-slides-container">
-                    ${itensDestaque.map((proj, idx) => `
-                        <div class="destaque-card-prime slide-item ${idx === 0 ? 'active-slide' : ''}" data-id="${proj.id}">
-                            <img src="${proj.capa}" alt="${proj.titulo}" class="destaque-prime-bg">
-                            <div class="destaque-prime-overlay">
-                                <span class="card-category">${proj.hashtag}</span>
-                                <h3 class="card-title-highlight">${proj.titulo}</h3>
-                                <div class="card-sub-info">${proj.local} • ${proj.mesAno}</div>
-                            </div>
-                            <button class="destaque-arrow-btn" title="Expandir"><i data-lucide="chevron-down"></i></button>
-                        </div>
-                    `).join('')}
+        itensDestaque.forEach(proj => {
+            const card = document.createElement("div");
+            card.className = "destaque-card-prime";
+            card.id = `card-proj-${proj.id}`;
+
+            const logoHTML = (proj.logo && proj.logo.trim() !== "") 
+                ? `<img src="${proj.logo}" alt="Logo" class="card-circle-logo">` 
+                : "";
+
+            card.innerHTML = `
+                <img src="${proj.capa}" alt="${proj.titulo}" class="destaque-prime-bg">
+                <div class="destaque-prime-overlay">
+                    <div class="card-header-badge-row">
+                        ${logoHTML}
+                        <span class="card-category">${proj.hashtag}</span>
+                    </div>
+                    <h3 class="card-title-highlight">${proj.titulo}</h3>
+                    <div class="card-sub-info">${proj.local} • ${proj.mesAno}</div>
                 </div>
-                <button class="slideshow-nav-btn prev" id="btn-slide-prev"><i data-lucide="chevron-left"></i></button>
-                <button class="slideshow-nav-btn next" id="btn-slide-next"><i data-lucide="chevron-right"></i></button>
-                <div class="slideshow-dots">
-                    ${itensDestaque.map((_, idx) => `
-                        <span class="slide-dot ${idx === 0 ? 'active' : ''}" data-index="${idx}"></span>
-                    `).join('')}
-                </div>
-            </div>
-        `;
-
-        const slides = containerDestaque.querySelectorAll('.slide-item');
-        const dots = containerDestaque.querySelectorAll('.slide-dot');
-
-        function showSlide(index) {
-            slides.forEach((s, i) => s.classList.toggle('active-slide', i === index));
-            dots.forEach((d, i) => d.classList.toggle('active', i === index));
-            slideIndex = index;
-        }
-
-        function nextSlide() {
-            let next = (slideIndex + 1) % itensDestaque.length;
-            showSlide(next);
-        }
-
-        function prevSlide() {
-            let prev = (slideIndex - 1 + itensDestaque.length) % itensDestaque.length;
-            showSlide(prev);
-        }
-
-        function startTimer() {
-            stopTimer();
-            slideTimer = setInterval(nextSlide, 5000);
-        }
-
-        function stopTimer() {
-            if (slideTimer) clearInterval(slideTimer);
-        }
-
-        containerDestaque.querySelector('#btn-slide-next')?.addEventListener('click', (e) => {
-            e.stopPropagation();
-            nextSlide();
-            startTimer();
+                <button class="destaque-arrow-btn" title="Expandir"><i data-lucide="chevron-down"></i></button>
+            `;
+            card.addEventListener("click", () => openNetflixDrawer(drawerDestaque, proj, card));
+            containerDestaque.appendChild(card);
         });
-
-        containerDestaque.querySelector('#btn-slide-prev')?.addEventListener('click', (e) => {
-            e.stopPropagation();
-            prevSlide();
-            startTimer();
-        });
-
-        dots.forEach(dot => {
-            dot.addEventListener('click', (e) => {
-                e.stopPropagation();
-                const idx = parseInt(dot.getAttribute('data-index'), 10);
-                showSlide(idx);
-                startTimer();
-            });
-        });
-
-        slides.forEach(slide => {
-            slide.addEventListener('click', () => {
-                const id = parseInt(slide.getAttribute('data-id'), 10);
-                const proj = projetos.find(p => p.id === id);
-                if (proj) openNetflixDrawer(drawerDestaque, proj, slide);
-            });
-        });
-
-        startTimer();
     }
 
-    // 5. CARROSSEIS POR CATEGORIA (REMOVIDO DISSERTAÇÃO E ORDENADO DO MAIS RECENTE AO MAIS ANTIGO)
+    // 5. CARROSSEIS POR CATEGORIA
     const categoriasMap = {
         "JORNALISMO & MEDIA": { slider: "slider-jornalismo", drawer: "drawer-jornalismo", btnL: "btn-left-jornalismo", btnR: "btn-right-jornalismo" },
         "AUDIOVISUAL": { slider: "slider-audiovisual", drawer: "drawer-audiovisual", btnL: "btn-left-audiovisual", btnR: "btn-right-audiovisual" },
@@ -483,21 +420,25 @@ document.addEventListener("DOMContentLoaded", () => {
             const drawer = document.getElementById(config.drawer);
             if (!slider) return;
 
-            // Filtra e ordena do mais recente ao mais antigo. Remove id 11 (Dissertação) dos conteúdos.
-            const items = projetos
-                .filter(p => p.categoria === catName && p.id !== 11)
-                .sort((a, b) => extrairData(b.mesAno) - extrairData(a.mesAno));
-
+            const items = projetos.filter(p => p.categoria === catName);
             slider.innerHTML = "";
 
             items.forEach(proj => {
                 const card = document.createElement("div");
                 card.className = "netflix-card-16-9";
                 card.id = `card-proj-${proj.id}`;
+
+                const logoHTML = (proj.logo && proj.logo.trim() !== "") 
+                    ? `<img src="${proj.logo}" alt="Logo" class="card-circle-logo">` 
+                    : "";
+
                 card.innerHTML = `
                     <img src="${proj.capa}" alt="${proj.titulo}" class="card-bg-img">
                     <div class="card-gradient-overlay">
-                        <span class="card-category">${proj.hashtag}</span>
+                        <div class="card-header-badge-row">
+                            ${logoHTML}
+                            <span class="card-category">${proj.hashtag}</span>
+                        </div>
                         <h4 class="card-title">${proj.titulo}</h4>
                         <div class="card-sub-info">${proj.local} • ${proj.mesAno}</div>
                     </div>
@@ -511,10 +452,8 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    // 6. POP-UP / DRAWER FULLSCREEN 100% LARGURA COM IMAGENS A OCUPAR 1/3 E PASSAGEM AUTOMÁTICA
+    // 6. POP-UP / DRAWER SUAVE
     function openNetflixDrawer(targetDrawer, proj, triggerElement) {
-        if (carouselAutoTimer) clearInterval(carouselAutoTimer);
-
         document.querySelectorAll('.netflix-drawer').forEach(d => {
             d.classList.remove('active');
             d.innerHTML = '';
@@ -532,44 +471,52 @@ document.addEventListener("DOMContentLoaded", () => {
             `).join('');
         }
 
+        let mediaHTML = "";
         const allPhotos = [{ url: proj.capa, titulo: "" }, ...(proj.media || [])];
+        
+        if (allPhotos.length > 1) {
+            mediaHTML = `
+                <div class="drawer-media-section">
+                    <div class="drawer-media-grid">
+                        ${allPhotos.map((m, idx) => `
+                            <div class="media-mini-card ${idx === 0 ? 'selected-thumb' : ''}" data-img-url="${m.url}">
+                                <img src="${m.url}" alt="Fotografia">
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+            `;
+        }
+
+        const drawerLogoHTML = (proj.logo && proj.logo.trim() !== "") 
+            ? `<img src="${proj.logo}" alt="Logo" class="drawer-circle-logo">` 
+            : "";
 
         targetDrawer.innerHTML = `
-            <div class="drawer-content-wrapper full-width-drawer">
-                <button class="close-drawer-btn" title="Fechar"><i data-lucide="x"></i></button>
+            <div class="drawer-content-wrapper">
                 <div class="drawer-flex-container">
-                    
-                    <!-- LADO ESQUERDO: 1/3 PARA IMAGENS -->
-                    <div class="drawer-left-media-third">
-                        <div class="drawer-carousel-main">
-                            ${allPhotos.map((m, idx) => `
-                                <img src="${m.url}" alt="${proj.titulo}" class="drawer-full-img ${idx === 0 ? 'active-img' : ''}" data-idx="${idx}">
-                            `).join('')}
+                    <div class="drawer-left-media">
+                        <div class="drawer-cover-wrapper">
+                            <img src="${proj.capa}" alt="${proj.titulo}" class="drawer-cover-img popup-main-img">
                             <div class="drawer-img-gradient-bottom"></div>
                         </div>
-                        ${allPhotos.length > 1 ? `
-                            <div class="drawer-media-grid">
-                                ${allPhotos.map((m, idx) => `
-                                    <div class="media-mini-card ${idx === 0 ? 'selected-thumb' : ''}" data-index="${idx}">
-                                        <img src="${m.url}" alt="Miniatura">
-                                    </div>
-                                `).join('')}
-                            </div>
-                        ` : ''}
+                        ${mediaHTML}
                     </div>
 
-                    <!-- LADO DIREITO: 2/3 PARA DETALHES -->
-                    <div class="drawer-right-details-twothirds">
-                        <span class="card-category">${proj.hashtag}</span>
+                    <div class="drawer-right-details">
+                        <div class="card-header-badge-row margin-bottom-sm">
+                            ${drawerLogoHTML}
+                            <span class="card-category">${proj.hashtag}</span>
+                        </div>
                         <h2>${proj.titulo}</h2>
                         
                         <div class="drawer-meta-boxes">
                             <div class="meta-box">
-                                <span class="meta-title">Data / Período</span>
+                                <span class="meta-title">Duração</span>
                                 <span class="meta-value">${proj.mesAno}</span>
                             </div>
                             <div class="meta-box">
-                                <span class="meta-title">Cargo / Função</span>
+                                <span class="meta-title">Cargo</span>
                                 <span class="meta-value">${proj.cargo}</span>
                             </div>
                             <div class="meta-box">
@@ -588,35 +535,20 @@ document.addEventListener("DOMContentLoaded", () => {
         targetDrawer.classList.add('active');
         if (window.lucide) window.lucide.createIcons();
 
-        // Passagem automática das fotos no cartão (3.5 segundos)
-        const imgs = targetDrawer.querySelectorAll('.drawer-full-img');
-        const thumbs = targetDrawer.querySelectorAll('.media-mini-card');
-        let currentImgIdx = 0;
-
-        function setFoto(idx) {
-            imgs.forEach((img, i) => img.classList.toggle('active-img', i === idx));
-            thumbs.forEach((t, i) => t.classList.toggle('selected-thumb', i === idx));
-            currentImgIdx = idx;
-        }
-
-        if (allPhotos.length > 1) {
-            carouselAutoTimer = setInterval(() => {
-                let nextIdx = (currentImgIdx + 1) % allPhotos.length;
-                setFoto(nextIdx);
-            }, 3500);
-
-            thumbs.forEach(thumb => {
-                thumb.addEventListener('click', () => {
-                    const idx = parseInt(thumb.getAttribute('data-index'), 10);
-                    setFoto(idx);
-                });
+        const mainImg = targetDrawer.querySelector('.popup-main-img');
+        targetDrawer.querySelectorAll('.media-mini-card').forEach(thumb => {
+            thumb.addEventListener('click', () => {
+                const newUrl = thumb.getAttribute('data-img-url');
+                if (mainImg) {
+                    mainImg.style.opacity = '0.4';
+                    setTimeout(() => {
+                        mainImg.src = newUrl;
+                        mainImg.style.opacity = '1';
+                    }, 150);
+                }
+                targetDrawer.querySelectorAll('.media-mini-card').forEach(t => t.classList.remove('selected-thumb'));
+                thumb.classList.add('selected-thumb');
             });
-        }
-
-        targetDrawer.querySelector('.close-drawer-btn')?.addEventListener('click', () => {
-            if (carouselAutoTimer) clearInterval(carouselAutoTimer);
-            targetDrawer.classList.remove('active');
-            if (triggerElement) triggerElement.classList.remove('active-card');
         });
 
         setTimeout(() => {
@@ -655,7 +587,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (!proj) return;
 
             wrapper.innerHTML = `
-                <div class="mini-project-chip" title="Ver cartão expandido">
+                <div class="mini-project-chip" title="Ver no carrossel de Conteúdos">
                     <img src="${proj.capa}" alt="${proj.titulo}" class="mini-project-img">
                     <span class="mini-project-title">${proj.titulo}</span>
                     <i data-lucide="arrow-right" class="mini-chevron"></i>
@@ -665,16 +597,18 @@ document.addEventListener("DOMContentLoaded", () => {
             wrapper.querySelector('.mini-project-chip').addEventListener('click', (e) => {
                 e.stopPropagation();
                 
-                let targetDrawer = null;
-                const catConfig = categoriasMap[proj.categoria];
-                if (catConfig) {
-                    targetDrawer = document.getElementById(catConfig.drawer);
-                } else if (proj.destaque) {
-                    targetDrawer = document.getElementById("drawer-destaque");
-                }
-                
-                if (targetDrawer) {
-                    openNetflixDrawer(targetDrawer, proj, null);
+                const targetCard = document.getElementById(`card-proj-${proj.id}`);
+                if (targetCard) {
+                    targetCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    
+                    const catConfig = categoriasMap[proj.categoria];
+                    if (catConfig) {
+                        const drawer = document.getElementById(catConfig.drawer);
+                        if (drawer) openNetflixDrawer(drawer, proj, targetCard);
+                    } else if (proj.destaque) {
+                        const drawer = document.getElementById("drawer-destaque");
+                        if (drawer) openNetflixDrawer(drawer, proj, targetCard);
+                    }
                 }
             });
         });
@@ -696,7 +630,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    renderDestaquesSlideshow();
+    renderDestaques();
     renderCategorias();
     setupAssociatedProjects();
     setupConditionalArrows();
